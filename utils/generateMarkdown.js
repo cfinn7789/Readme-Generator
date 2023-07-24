@@ -54,8 +54,9 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
+  ${renderLicenseSection(data.license)}
+
   ## Contact Info
-  Contact Me:
   [My Github](https://github.com/${data.username})
   ${data.email}
 `;

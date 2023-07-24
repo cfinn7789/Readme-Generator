@@ -1,8 +1,8 @@
-# test
+# Example
   
 
   ## Description
-  test
+  This is an example demonstration of the README Generator
 
   ## Installation
   There are no installation instructions.
@@ -14,5 +14,5 @@
   There is no license applicable.
 
   ## Contact Info
-  [My Github](https://github.com/test)
-  test
+  [My Github](https://github.com/cfinn7789)
+  cfinn7789@gmail.com

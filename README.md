@@ -15,4 +15,4 @@
 
   ## Contact Info
   [My Github](https://github.com/cfinn7789)
-  cfinn7789@gmail.com
+  My Email: cfinn7789@gmail.com

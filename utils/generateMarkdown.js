@@ -3,11 +3,11 @@ function renderLicenseBadge(license) {
 
   switch(license) {
     case "MIT":
-      return 'https://img.shields.io/badge/License-MIT-yellow.svg';
+      return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
     case "ISC":
-      return 'https://img.shields.io/badge/License-ISC-blue.svg';
+      return '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)';
     case "Apache":
-      return 'https://img.shields.io/badge/License-Apache%202.0-blue.svg'
+      return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
     default:
       return "";
   }

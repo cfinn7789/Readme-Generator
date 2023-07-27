@@ -34,6 +34,12 @@ const questions = [
     },
     {
         type: "input",
+        message: "Please enter testing information: ",
+        default: "There is no testing information.",
+        name: "tests"
+    },
+    {
+        type: "input",
         message: "What is your email?",
         name: 'email'
     },

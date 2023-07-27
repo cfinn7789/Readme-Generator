@@ -1,7 +1,7 @@
-# Example
+# Readme Generator
 
   ## Description
-  This is an example demonstration of the readme generator
+  This is a node js application that will generate a readme file.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,10 +12,10 @@
   - [Contact Info](#contact-info)
 
   ## Installation
-  There are no installation instructions.
+  Install using npm install (or npm i)
 
   ## Usage
-  There is no usage information.
+  To use this project, run "node index.js" in the command line.
 
   ## Contributing
   There are no contriubtion details.

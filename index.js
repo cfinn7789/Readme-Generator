@@ -28,6 +28,12 @@ const questions = [
     },
     {
         type: "input",
+        message: "Please enter contribution details: ",
+        default: "There are no contriubtion details.",
+        name: 'contributing'
+    },
+    {
+        type: "input",
         message: "What is your email?",
         name: 'email'
     },

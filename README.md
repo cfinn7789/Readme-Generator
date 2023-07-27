@@ -1,7 +1,7 @@
-# test
+# Example
 
   ## Description
-  teset
+  This is an example demonstration of the readme generator
 
   ## Table of Contents
   - [Installation](#installation)
@@ -24,9 +24,8 @@
   There is no testing information.
 
   ## License
-  
-  This project is licensed by: [MIT](https://opensource.org/licenses/MIT) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  There is no license applicable. 
 
   ## Contact Info
-  [My Github](https://github.com/etse)
-  My Email: test
+  [My Github](https://github.com/cfinn7789)
+  My Email: cfinn7789@gmail.com
